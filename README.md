@@ -1,7 +1,3 @@
 Hi there!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.original-lily/?username=Original-Lily&show_icons=true&include_all_commits=true&count_private=true&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats.original-lily/?username=Original-Lily&show_icons=true&include_all_commits=true&count_private=true&theme=light">
-  <img alt="Lily's Readme Stats" src="https://github-stats.original-lily/?username=Original-Lily&show_icons=true&include_all_commits=true&count_private=true&theme=light">
-</picture>
+![Forrest's Github stats](https://github-readme-stats.vercel.app/api?username=Original-Lily&show_icons=true&theme=panda)
