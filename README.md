@@ -29,5 +29,4 @@ My name is Lily & I am a passionate and dedicated full-stack developer with a st
 </details>
 <br/>
 
-<p align="center">
-![Forrest's Github stats](https://github-readme-stats.vercel.app/api?username=Original-Lily&show_icons=true&theme=dracula)</p>
+![Forrest's Github stats](https://github-readme-stats.vercel.app/api?username=Original-Lily&show_icons=true&theme=dracula)
