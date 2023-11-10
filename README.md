@@ -29,4 +29,6 @@ My name is Lily & I am a passionate and dedicated full-stack developer with a st
 </details>
 <br/>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=original-lily&theme=dracula&layout=compact" alt="My most used languages"/></p>
 ![Forrest's Github stats](https://github-readme-stats.vercel.app/api?username=Original-Lily&show_icons=true&theme=panda)
