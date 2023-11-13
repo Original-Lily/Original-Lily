@@ -1,6 +1,6 @@
 <h2>Hi there!</h2>
 
-My name is Lily & I am a passionate and dedicated full-stack developer with a strong interest in cybersecurity. I thrive on tackling complex challenges, building robust, secure applications, and staying up-to-date with the latest trends in the world of technology.
+<h3>My name is Lily & I am a passionate and dedicated full-stack developer with a strong interest in cybersecurity. I thrive on tackling complex challenges, building robust, secure applications, and staying up-to-date with the latest trends in the world of technology.</h3>
 
 **Full-Stack Developer**: I have extensive experience in developing full-stack web applications, starting from conceptualization to deployment. I am proficient in using a wide range of technologies, from front-end frameworks like React, Vue.js, and Angular to back-end technologies like Node.js, Python, and Java. My projects are known for their responsive design and user-friendly interfaces.
 
