@@ -84,5 +84,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Original-Lily/Original-Lily/assets/87139613/5272b922-e179-4b6a-8242-b988187db5f9" alt="Profile Image" />
+  <img src="https://github.com/Original-Lily/Original-Lily/assets/87139613/5272b922-e179-4b6a-8242-b988187db5f9" alt="Profile Image" width="100%" />
 </p>
