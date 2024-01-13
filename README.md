@@ -80,9 +80,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Original-Lily/Original-Lily/assets/87139613/5272b922-e179-4b6a-8242-b988187db5f9" alt="Profile Image" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Original-Lily&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Original-Lily&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github.com/Original-Lily/Original-Lily/assets/87139613/5272b922-e179-4b6a-8242-b988187db5f9" alt="Profile Image" />
 </p>
