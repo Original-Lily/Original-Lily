@@ -90,5 +90,10 @@
   </p>
 </details>
 
-![Forrest's Github stats](https://github-readme-stats.vercel.app/api?username=Original-Lily&show_icons=true&theme=dracula)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Original-Lily&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Original-Lily&show_icons=true&theme=dracula" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Original-Lily&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
