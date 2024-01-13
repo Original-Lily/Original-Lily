@@ -2,7 +2,7 @@
 
 <h3>My name is Lily & I am a passionate and dedicated full-stack developer with a strong interest in cybersecurity. I thrive on tackling complex challenges, building robust, secure applications, and staying up-to-date with the latest trends in the world of technology.</h3>
 
-<p align="center">![B7w3Gka-ezgif com-crop](https://github.com/Original-Lily/Original-Lily/assets/87139613/5272b922-e179-4b6a-8242-b988187db5f9)</p>
+![B7w3Gka-ezgif com-crop](https://github.com/Original-Lily/Original-Lily/assets/87139613/5272b922-e179-4b6a-8242-b988187db5f9)
 
 <details>
   <summary>
