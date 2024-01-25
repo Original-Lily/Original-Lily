@@ -1,4 +1,4 @@
-<h2>Hi there!</h2>
+<h2 align="center">Hi there!</h2>
 
 <h3 align="center">My name is Lily & I am a passionate and dedicated full-stack developer with a strong interest in cybersecurity. I thrive on tackling complex challenges, building robust, secure applications, and staying up-to-date with the latest trends in the world of technology.</h3>
 
