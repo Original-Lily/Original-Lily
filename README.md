@@ -86,3 +86,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Original-Lily&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+<p align = "center">
+  <img src="https://komarev.com/ghpvc/?username=Original-Lily&color=green&style=for-the-badge"  alt="profile view count"/>
+</p>
