@@ -79,10 +79,6 @@
   </p>
 </details>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Original-Lily&show_icons=true&theme=dracula" alt="GitHub Stats" />
-</p>
-
 <p align = "center">
   <img src="https://komarev.com/ghpvc/?username=Original-Lily&color=green&style=for-the-badge"  alt="profile view count"/>
 </p>
